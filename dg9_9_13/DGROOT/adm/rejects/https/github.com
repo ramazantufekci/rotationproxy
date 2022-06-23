@@ -1,8 +1,0 @@
-[09/Jun/2022:08:47:57 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:63392/ "Forbidden by DeleGate"
-[09/Jun/2022:08:49:18 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:64048/ "Forbidden by DeleGate"
-[09/Jun/2022:08:52:52 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:49408/ "Forbidden by DeleGate"
-[09/Jun/2022:08:54:22 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:50145/ "Forbidden by DeleGate"
-[09/Jun/2022:08:55:24 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:50623/ "Forbidden by DeleGate"
-[10/Jun/2022:05:12:19 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:62931/ "Forbidden by DeleGate"
-[10/Jun/2022:05:13:49 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:63584/ "Forbidden by DeleGate"
-[10/Jun/2022:05:14:52 +0000] DELEGATE https://:@github.com:443/ - https://-:@192.168.17.4:64042/ "Forbidden by DeleGate"

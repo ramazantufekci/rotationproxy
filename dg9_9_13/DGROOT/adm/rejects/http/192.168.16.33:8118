@@ -1,2 +1,0 @@
-[10/Jun/2022:05:05:20 +0000] DELEGATE http://:@192.168.16.33:8118/ - http://-:@192.168.17.4:59416/ "Forbidden by DeleGate"
-[10/Jun/2022:05:05:22 +0000] DELEGATE http://:@192.168.16.33:8118/ - http://-:@192.168.17.4:59416/ "Forbidden by DeleGate"

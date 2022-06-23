@@ -1,9 +1,0 @@
-localhost - - [09/Jun/2022:08:57:51 +0000] "GET http://192.168.16.33:3129/-/builtin/icons/ysato/frog9LTW.gif/icons/ysato/frog9LTW.gif HTTP/1.1" 404 1010 0*0.000+0.001:I:0d
-localhost - - [09/Jun/2022:08:58:16 +0000] "GET http://192.168.16.33:3129/-/builtin/icons/ysato/frog9LTW.gif/icons/ysato/frog9LTW.gif HTTP/1.1" 404 1010 0*0.000+5.422:I:0d
-localhost - - [09/Jun/2022:08:58:45 +0000] "GET http://192.168.16.33:3129/-/builtin/icons/ysato/frog9LTW.gif/icons/ysato/frog9LTW.gif HTTP/1.1" 404 1010 0*0.000+1.419:I:0X
-localhost - - [09/Jun/2022:08:59:07 +0000] "GET http://192.168.16.33:3129/-/builtin/icons/ysato/next.gifltin/icons/ysato/next.gif HTTP/1.1" 404 1002 0*0.000+40.016:I:0X
-localhost - - [10/Jun/2022:05:08:14 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 403 2197 0*0.000+0.000:A:0?
-localhost - - [10/Jun/2022:05:11:34 +0000] "GET http://192.168.16.33:3129/ttp://192.168.16.33:3129/ HTTP/1.1" 404 942 0*0.000+0.919:I:0d
-localhost - - [10/Jun/2022:06:46:14 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 404 1090 0*0.000+0.002:I:0?
-localhost - - [10/Jun/2022:06:57:27 +0000] "GET http://192.168.16.33:3128/-/p://192.168.16.33:3128/-/ HTTP/1.1" 404 946 0*0.000+0.513:I:0t
-localhost - - [10/Jun/2022:07:06:19 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 200 424 0*0.001+5.035:RW:0M
