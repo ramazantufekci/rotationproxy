@@ -1,0 +1,5 @@
+[09/Jun/2022:12:37:49 +0000] DELEGATE https://:@www.sozcu.com.tr:443/ - https://-:@192.168.17.4:54546/ "Forbidden by DeleGate"
+[09/Jun/2022:12:37:51 +0000] DELEGATE https://:@www.sozcu.com.tr:443/ - https://-:@192.168.17.4:54563/ "Forbidden by DeleGate"
+[09/Jun/2022:12:37:51 +0000] DELEGATE https://:@www.sozcu.com.tr:443/ - https://-:@192.168.17.4:54564/ "Forbidden by DeleGate"
+[09/Jun/2022:12:37:53 +0000] DELEGATE https://:@www.sozcu.com.tr:443/ - https://-:@192.168.17.4:54581/ "Forbidden by DeleGate"
+[09/Jun/2022:12:37:59 +0000] DELEGATE https://:@www.sozcu.com.tr:443/ - https://-:@192.168.17.4:54615/ "Forbidden by DeleGate"

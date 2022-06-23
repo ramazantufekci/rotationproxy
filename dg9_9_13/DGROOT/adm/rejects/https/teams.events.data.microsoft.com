@@ -1,0 +1,6 @@
+[09/Jun/2022:08:55:29 +0000] DELEGATE https://:@teams.events.data.microsoft.com:443/ - https://-:@192.168.17.4:50667/ "Forbidden by DeleGate"
+[09/Jun/2022:08:56:02 +0000] DELEGATE https://:@teams.events.data.microsoft.com:443/ - https://-:@192.168.17.4:50937/ "Forbidden by DeleGate"
+[10/Jun/2022:05:12:21 +0000] DELEGATE https://:@teams.events.data.microsoft.com:443/ - https://-:@192.168.17.4:62937/ "Forbidden by DeleGate"
+[10/Jun/2022:05:12:55 +0000] DELEGATE https://:@teams.events.data.microsoft.com:443/ - https://-:@192.168.17.4:63188/ "Forbidden by DeleGate"
+[10/Jun/2022:07:01:07 +0000] DELEGATE https://:@teams.events.data.microsoft.com:443/ - https://-:@192.168.17.4:64022/ "Forbidden by DeleGate"
+[10/Jun/2022:07:01:12 +0000] DELEGATE https://:@teams.events.data.microsoft.com:443/ - https://-:@192.168.17.4:64054/ "Forbidden by DeleGate"

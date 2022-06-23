@@ -1,0 +1,10 @@
+-P3137
+env[25] LIBPATH=.;/home/ramazan/proxy;/home/ramazan/proxy/dg9_9_13/DGROOT/lib;/home/ramazan/proxy/./dg9_9_13/DGROOT/bin;/home/ramazan/proxy/dg9_9_13/DGROOT/etc
+env[27] RESOLV=cache,file,dns
+ext[0] DGROOT=${EXECDIR}/..
+ext[1] PERMIT=*:*:* ... fully open
+arg[2] SERVER=http
+arg[3] SOCKS=127.0.0.1:9058
+arg[4] ADMIN=kurtulus571@radyobilge.com
+arg[6] AUTH=admin:-list{dgadmin:MD5:77012d71ef8654a66149fca2c318fabf}
+arg[7] RELIABLE={!?,!?@*}

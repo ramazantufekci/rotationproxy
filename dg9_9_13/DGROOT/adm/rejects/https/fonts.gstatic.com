@@ -1,0 +1,8 @@
+[10/Jun/2022:05:02:28 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:57593/ "Forbidden by DeleGate"
+[10/Jun/2022:05:11:59 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:62756/ "Forbidden by DeleGate"
+[10/Jun/2022:05:12:02 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:62787/ "Forbidden by DeleGate"
+[10/Jun/2022:05:12:05 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:62815/ "Forbidden by DeleGate"
+[10/Jun/2022:05:12:52 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:63171/ "Forbidden by DeleGate"
+[10/Jun/2022:05:13:23 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:63391/ "Forbidden by DeleGate"
+[10/Jun/2022:05:13:58 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:63650/ "Forbidden by DeleGate"
+[10/Jun/2022:05:14:31 +0000] DELEGATE https://:@fonts.gstatic.com:443/ - https://-:@192.168.17.4:63891/ "Forbidden by DeleGate"

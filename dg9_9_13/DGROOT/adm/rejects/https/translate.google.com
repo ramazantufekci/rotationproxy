@@ -1,0 +1,6 @@
+[09/Jun/2022:08:52:16 +0000] DELEGATE https://:@translate.google.com:443/ - https://-:@192.168.17.4:65507/ "Forbidden by DeleGate"
+[09/Jun/2022:08:55:16 +0000] DELEGATE https://:@translate.google.com:443/ - https://-:@192.168.17.4:50561/ "Forbidden by DeleGate"
+[09/Jun/2022:08:55:16 +0000] DELEGATE https://:@translate.google.com:443/ - https://-:@192.168.17.4:50562/ "Forbidden by DeleGate"
+[10/Jun/2022:05:04:15 +0000] DELEGATE https://:@translate.google.com:443/ - https://-:@192.168.17.4:58438/ "Forbidden by DeleGate"
+[10/Jun/2022:05:13:15 +0000] DELEGATE https://:@translate.google.com:443/ - https://-:@192.168.17.4:63328/ "Forbidden by DeleGate"
+[10/Jun/2022:07:02:15 +0000] DELEGATE https://:@translate.google.com:443/ - https://-:@192.168.17.4:64539/ "Forbidden by DeleGate"

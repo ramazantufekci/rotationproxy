@@ -1,0 +1,8 @@
+localhost - dgadmin [09/Jun/2022:08:57:53 +0000] "GET http://192.168.16.33:3129/-/admin/stats?&com=version/admin/stats?&com=version HTTP/1.1" 200 4946 0*0.000+0.002:I:0d
+localhost - - [09/Jun/2022:08:58:20 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 200 424 0*0.001+5.037:RW:0M
+localhost - dgadmin [09/Jun/2022:08:58:31 +0000] "POST http://192.168.16.33:3129/-/admin/servers6.33:3129/-/admin/servers HTTP/1.1" 200 389 0*0.000+0.001:I:0?
+localhost - dgadmin [09/Jun/2022:08:58:45 +0000] "GET http://192.168.16.33:3129/-/admin/?.168.16.33:3129/-/admin/? HTTP/1.1" 200 11321 0*0.000+0.003:I:0X
+localhost - - [10/Jun/2022:05:09:14 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 403 2197 0*0.000+0.000:A:0?
+localhost - - [10/Jun/2022:05:11:34 +0000] "GET http://192.168.16.33:3129/ttp://192.168.16.33:3129/ HTTP/1.1" 404 942 0*0.000+0.895:I:0d
+localhost - - [10/Jun/2022:06:47:14 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 404 1090 0*0.000+0.001:I:0?
+localhost - - [10/Jun/2022:06:57:27 +0000] "GET http://192.168.16.33:3128/-/builtin/icons/ysato/frogHead.gif/icons/ysato/frogHead.gif HTTP/1.1" 404 1010 0*0.000+0.514:I:0t

@@ -1,0 +1,6 @@
+[09/Jun/2022:08:52:20 +0000] DELEGATE http://:@www.delegate.org:80/ - http://-:@192.168.17.4:49165/ "Forbidden by DeleGate"
+[09/Jun/2022:08:52:20 +0000] DELEGATE http://:@www.delegate.org:80/ - http://-:@192.168.17.4:49165/ "Forbidden by DeleGate"
+[09/Jun/2022:08:54:52 +0000] DELEGATE http://:@www.delegate.org:80/ - http://-:@192.168.17.4:50371/ "Forbidden by DeleGate"
+[09/Jun/2022:08:54:53 +0000] DELEGATE http://:@www.delegate.org:80/ - http://-:@192.168.17.4:50389/ "Forbidden by DeleGate"
+[09/Jun/2022:08:56:23 +0000] DELEGATE http://:@www.delegate.org:80/ - http://-:@192.168.17.4:51121/ "Forbidden by DeleGate"
+[09/Jun/2022:08:56:24 +0000] DELEGATE http://:@www.delegate.org:80/ - http://-:@192.168.17.4:51125/ "Forbidden by DeleGate"

@@ -1,0 +1,12 @@
+localhost - dgadmin [09/Jun/2022:08:57:51 +0000] "GET http://192.168.16.33:3129/-/admin/stats?form=StatusCtl&com=status&orm=StatusCtl&com=status& HTTP/1.1" 200 21446 0*0.000+0.004:I:0d
+localhost - dgadmin [09/Jun/2022:08:58:10 +0000] "GET http://192.168.16.33:3129/-/admin/showdir/DGROOT/9/-/admin/showdir/DGROOT/ HTTP/1.1" 200 5233 0*0.000+0.001:I:0d
+localhost - - [09/Jun/2022:08:58:36 +0000] "GET http://192.168.16.33:3129/-/builtin/icons/ysato/frog9LTW.gif/icons/ysato/frog9LTW.gif HTTP/1.1" 404 1010 0*0.000+8.729:I:0d
+localhost - dgadmin [09/Jun/2022:08:58:44 +0000] "GET http://192.168.16.33:3129/-/admin/setup?16.33:3129/-/admin/setup? HTTP/1.1" 200 5722 0*0.000+0.001:I:0X
+localhost - - [10/Jun/2022:04:58:39 +0000] "GET http://192.168.16.33:3129/-/builtin/icons/ysato/frogHead.gif/icons/ysato/frogHead.gif HTTP/1.1" 404 1010 0*0.000+0.001:I:0t
+localhost - - [10/Jun/2022:05:08:08 +0000] "GET http://192.168.16.33:3129/-/builtin/icons/ysato/frogHead.gif/icons/ysato/frogHead.gif HTTP/1.1" 403 2227 0*0.000+0.001:I:0t
+localhost - - [10/Jun/2022:05:11:33 +0000] "GET http://192.168.16.33:3129/ttp://192.168.16.33:3129/ HTTP/1.1" 404 942 0*0.000+0.923:I:0d
+localhost - - [10/Jun/2022:06:45:14 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 404 1090 0*0.000+0.001:I:0?
+localhost - - [10/Jun/2022:06:51:57 +0000] "GET http://192.168.16.33:3129/ttp://192.168.16.33:3129/ HTTP/1.1" 403 2228 0*0.000+20.333:I:0d
+localhost - - [10/Jun/2022:06:56:15 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 403 2197 0*0.000+0.000:A:0?
+localhost - - [10/Jun/2022:06:57:19 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 200 424 0*0.001+5.115:RW:0M
+localhost - - [10/Jun/2022:07:05:19 +0000] "POST http://192.168.16.149/zabbix.php?action=notifications.get&sid=97d75557ab7feea7&output=ajax7ab7feea7&output=ajax HTTP/1.1" 200 424 0*0.001+5.037:RW:0M
